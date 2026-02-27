@@ -1,6 +1,7 @@
 # annotation
 
-This repository contains instructions to carry out annotations using potato interface.
+> [!NOTE]
+> This repository contains instructions to carry out annotations.
 
 ## Emotion experiences (annotation task )
 
