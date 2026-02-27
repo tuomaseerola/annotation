@@ -127,7 +127,9 @@ Once you have created an account, you can log in to the system, and there is an 
 ![Annotation interface.](figures/figure2.png)
 
 
-Here you can see a long text clip, and the three annotation schemes below. You should keep the guidance near at hand to learn what these categories actually mean. I'll try to have other persons to do the same task so we can compare the consistency across the annotators.
+Here you can see a long text clip, and the three annotation schemes below. You should keep the guidance near at hand to learn what these categories actually mean. 
+
+We will have several persons to do the annotations in order to compare the consistency across the annotators.
 
 # References
 
